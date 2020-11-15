@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "color clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billyott/npm-lab.git"
+  },
+  "author": "billy ott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billyott/npm-lab/issues"
+  },
+  "homepage": "https://github.com/billyott/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
